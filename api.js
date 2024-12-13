@@ -51,3 +51,5 @@ async function fetchAndDisplayData() {
 
 // Call the function to fetch and display data
 window.addEventListener('DOMContentLoaded', fetchAndDisplayData);
+
+
